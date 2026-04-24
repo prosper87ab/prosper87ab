@@ -3,7 +3,7 @@
 <h2>👨‍💻 Identity and Access Management Projects:</h2>
 
 - <b>Active Directory Labs</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/prosper87ab/osticket-prereqs)
+  - [Role-Based Access Control RBAC](https://github.com/prosper87ab/osticket-prereqs)
 - <b>Microsoft Azure Labs</b>
   - [Creating Users and Groups Using Powershell](https://github.com/prosper87ab/configure-ad)
   - [Single Sign-On(SSO) with SAML/OIDC](https://github.com/prosper87ab/azure-network-protocols)
