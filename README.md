@@ -4,7 +4,6 @@
 
 - <b>Active Directory Labs</b>
   - [osTicket: Prerequisites and Installation](https://github.com/prosper87ab/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/prosper87ab/post-install-config)
 - <b>Microsoft Azure Labs</b>
   - [Creating Users and Groups Using Powershell](https://github.com/prosper87ab/configure-ad)
   - [Single Sign-On(SSO) with SAML/OIDC](https://github.com/prosper87ab/azure-network-protocols)
