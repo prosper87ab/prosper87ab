@@ -2,13 +2,12 @@
 
 <h2>👨‍💻 Identity and Access Management Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Active Directory Labs</b>
   - [osTicket: Prerequisites and Installation](https://github.com/prosper87ab/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/prosper87ab/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/prosper87ab/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/prosper87ab/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/prosper87ab/azure-network-protocols)
+- <b>Microsoft Azure Labs</b>
+  - [Creating Users and Groups Using Powershell](https://github.com/prosper87ab/configure-ad)
+  - [Single Sign-On(SSO) with SAML/OIDC](https://github.com/prosper87ab/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
