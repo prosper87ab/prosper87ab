@@ -15,6 +15,39 @@
 - <b>Microsoft Azure Labs</b>
   - [Creating Users and Groups Using Powershell](https://github.com/prosper87ab/configure-ad)
   - [Single Sign-On(SSO) with SAML/OIDC](https://github.com/prosper87ab/azure-network-protocols)
+ 
+<h2>👨‍💻 Hybrid Identity: Connect On-Prem AD to Azure AD:</h2>
+
+- <b>Set Up Microsoft Entra ID (Azure AD) Tenant</b>
+  - [Role-Based Access Control RBAC](https://github.com/prosper87ab/osticket-prereqs)
+- <b>Activate Microsoft Entra ID P2 Trial (Free 30 Days)</b>
+  - [Creating Users and Groups Using Powershell](https://github.com/prosper87ab/configure-ad)
+  - [Single Sign-On(SSO) with SAML/OIDC](https://github.com/prosper87ab/azure-network-protocols)
+ 
+<h2>🔑 Okta: SSO and MFA for Multiple Applications:</h2>
+
+- <b>Configure Okta Universal Directory</b>
+  - [Role-Based Access Control RBAC](https://github.com/prosper87ab/osticket-prereqs)
+- <b>Integrate 5 Applications via SSO</b>
+  - [Creating Users and Groups Using Powershell](https://github.com/prosper87ab/configure-ad)
+  - [Single Sign-On(SSO) with SAML/OIDC](https://github.com/prosper87ab/azure-network-protocols)
+ 
+<h2>⚡ PowerShell Automation: Joiner-Mover-Leaver Engine:</h2>
+
+- <b>PowerShell Foundations for IAM</b>
+  - [Role-Based Access Control RBAC](https://github.com/prosper87ab/osticket-prereqs)
+- <b>Build a CSV-Driven Bulk Import (The Real Power Move)</b>
+  - [Creating Users and Groups Using Powershell](https://github.com/prosper87ab/configure-ad)
+  - [Single Sign-On(SSO) with SAML/OIDC](https://github.com/prosper87ab/azure-network-protocols)
+ 
+
+<h2>🛡️ Privileged Access Management (PAM) Lab:</h2>
+
+- <b>Request CyberArk Privileged Cloud Free Trial</b>
+  - [Role-Based Access Control RBAC](https://github.com/prosper87ab/osticket-prereqs)
+- <b>Connect to a Target System Through CyberArk (NOT Directly)</b>
+  - [Creating Users and Groups Using Powershell](https://github.com/prosper87ab/configure-ad)
+  - [Single Sign-On(SSO) with SAML/OIDC](https://github.com/prosper87ab/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
