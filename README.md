@@ -1,12 +1,12 @@
-Portfolio Note
-
-This portfolio showcases hands-on IAM projects designed to mirror real enterprise environments and operational workflows.
-
-Rather than focusing only on theory, each project demonstrates how identity systems are built, managed, and secured in practice—covering user provisioning and deprovisioning, role-based access control (RBAC), Group Policy enforcement, and automation using PowerShell.
-
-With a foundation in business-driven access management, these projects reflect real-world scenarios such as onboarding, access reviews, and policy enforcement—highlighting the critical role IAM plays in both security and organizational efficiency.
-
-The objective is to demonstrate the ability to design and manage scalable identity solutions using technologies such as Active Directory, Okta, and Microsoft Entra ID, while enforcing least privilege, improving operational efficiency, and supporting secure access across hybrid environments.
+> ### 📌 Portfolio Note
+>
+> This portfolio showcases hands-on IAM projects designed to mirror real enterprise environments and operational workflows.
+>
+> Rather than focusing only on theory, each project demonstrates how identity systems are built, managed, and secured in practice—covering user provisioning and deprovisioning, role-based access control (RBAC), Group Policy enforcement, and automation using PowerShell.
+>
+> With a foundation in business-driven access management, these projects reflect real-world scenarios such as onboarding, access reviews, and policy enforcement.
+>
+> The objective is to demonstrate the ability to design and manage scalable identity solutions using Active Directory, Okta, and Microsoft Entra ID.
 
 <h2>👨‍💻 Identity and Access Management Projects:</h2>
 
