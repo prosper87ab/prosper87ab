@@ -48,6 +48,14 @@
 - <b>Connect to a Target System Through CyberArk (NOT Directly)</b>
   - [Creating Users and Groups Using Powershell](https://github.com/prosper87ab/configure-ad)
   - [Single Sign-On(SSO) with SAML/OIDC](https://github.com/prosper87ab/azure-network-protocols)
+ 
+<h2>🔒 Zero Trust Architecture & Access Certification Lab:</h2>
+
+- <b>Register Devices in Entra ID (Device Compliance)</b>
+  - [Role-Based Access Control RBAC](https://github.com/prosper87ab/osticket-prereqs)
+- <b>Configure Named Locations (Trusted vs. Untrusted Networks)</b>
+  - [Creating Users and Groups Using Powershell](https://github.com/prosper87ab/configure-ad)
+  - [Single Sign-On(SSO) with SAML/OIDC](https://github.com/prosper87ab/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
