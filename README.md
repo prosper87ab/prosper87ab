@@ -8,7 +8,11 @@
 >
 > The objective is to demonstrate the ability to design and manage scalable identity solutions using Active Directory, Okta, and Microsoft Entra ID.
 
-<h2>✅ Identity and Access Management Projects:</h2>
+<h2>🏗️ Identity and Access Management Projects:</h2>
+
+Here are some of the projects completed in a simulation environment to demonstrate the skills of an IAM analyst.
+
+<h2>🖥️ Build Your On-Premises Active Directory Domain:</h2>
 
 - <b>Active Directory Labs</b>
   - [Role-Based Access Control RBAC](https://github.com/prosper87ab/osticket-prereqs)
