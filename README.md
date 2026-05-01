@@ -15,7 +15,7 @@ Here are some of the projects completed in a simulation environment to demonstra
 <h2>🖥️ Build Your On-Premises Active Directory Domain:</h2>
 
 - <b>Active Directory Labs</b>
-  - [Role-Based Access Control RBAC](https://github.com/prosper87ab/activedirectory)
+  - [Active Directory Domain with Full RBAC](https://github.com/prosper87ab/activedirectory)
 - <b>Microsoft Azure Labs</b>
   - [Creating Users and Groups Using Powershell](https://github.com/prosper87ab/configure-ad)
   - [Single Sign-On(SSO) with SAML/OIDC](https://github.com/prosper87ab/azure-network-protocols)
