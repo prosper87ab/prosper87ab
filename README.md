@@ -12,7 +12,7 @@
 
 Here are some of the projects completed in a simulation environment to demonstrate the skills of an IAM analyst.
 
-<h2>🖥️ Build Your On-Premises Active Directory Domain:</h2>
+<h2>🖥️ Active Directory and RBAC Lab:</h2>
 
 - <b>Active Directory to Okta Integration Lab</b>
   - [Active Directory Domain with Full RBAC](https://github.com/prosper87ab/activedirectory)
