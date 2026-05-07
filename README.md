@@ -14,7 +14,7 @@ Here are some of the projects completed in a simulation environment to demonstra
 
 <h2>🖥️ Active Directory and RBAC Lab:</h2>
 
-- <b>Active Directory to Okta Integration Lab</b>
+- <b>Active Directory to Okta Synchronization Lab</b>
   - [Active Directory Domain with Full RBAC](https://github.com/prosper87ab/activedirectory)
 - <b>Microsoft Azure Labs</b>
   - [Creating Users and Groups Using Powershell](https://github.com/prosper87ab/configure-ad)
