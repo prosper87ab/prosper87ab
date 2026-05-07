@@ -15,9 +15,9 @@ Here are some of the projects completed in a simulation environment to demonstra
 <h2>🖥️ Active Directory and RBAC Lab:</h2>
 
 - <b>Active Directory to Okta Synchronization Lab</b>
-  - [Active Directory Domain with Full RBAC](https://github.com/prosper87ab/activedirectory)
-- <b>Microsoft Azure Labs</b>
-  - [Creating Users and Groups Using Powershell](https://github.com/prosper87ab/configure-ad)
+  - [How to Sync AD with Okta](https://github.com/prosper87ab/activedirectory)
+- <b>Connect On-Prem AD to Azure AD</b>
+  - [How to Sync AD to Azure AD Using Entra Connect](https://github.com/prosper87ab/configure-ad)
   - [Single Sign-On(SSO) with SAML/OIDC](https://github.com/prosper87ab/azure-network-protocols)
  
 <h2>👨‍💻 Hybrid Identity: Connect On-Prem AD to Azure AD:</h2>
