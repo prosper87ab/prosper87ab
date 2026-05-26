@@ -12,7 +12,7 @@
 
 Here are some of the projects completed in a simulation environment to demonstrate the skills of an IAM analyst.
 
-<h2>🖥️ Active Directory and RBAC Lab:</h2>
+<h2>🖥️ Enterprise Hybrid Identity Architecture: Multi-Cloud Federated Access (Okta & Microsoft Entra ID):</h2>
 
 - <b>Active Directory to Okta Synchronization Lab</b>
   - [How to Sync AD with Okta](https://github.com/prosper87ab/activedirectory)
