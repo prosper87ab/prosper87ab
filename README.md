@@ -18,13 +18,15 @@ Here are some of the projects completed in a simulation environment to demonstra
   - [How to Sync AD with Okta](https://github.com/prosper87ab/activedirectory)
 
  
-<h2>👨‍💻 Hybrid Identity: Connect On-Prem AD to Azure AD:</h2>
+<h2>👨‍💻 Authentication, Single Sign-On (SSO) & MFA:</h2>
 
 - <b>Set Up Microsoft Entra ID (Azure AD) Tenant</b>
   - [Role-Based Access Control RBAC](https://github.com/prosper87ab/osticket-prereqs)
 - <b>Activate Microsoft Entra ID P2 Trial (Free 30 Days)</b>
   - [Creating Users and Groups Using Powershell](https://github.com/prosper87ab/configure-ad)
   - [Single Sign-On(SSO) with SAML/OIDC](https://github.com/prosper87ab/azure-network-protocols)
+ 
+  
  
 <h2>🔑 Okta: SSO and MFA for Multiple Applications:</h2>
 
