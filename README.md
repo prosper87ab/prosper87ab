@@ -16,9 +16,7 @@ Here are some of the projects completed in a simulation environment to demonstra
 
 - <b>The Lab Architecture</b>
   - [How to Sync AD with Okta](https://github.com/prosper87ab/activedirectory)
-- <b>Connect On-Prem AD to Azure AD</b>
-  - [How to Sync AD to Azure AD Using Entra Connect](https://github.com/prosper87ab/configure-ad)
-  - [Single Sign-On(SSO) with SAML/OIDC](https://github.com/prosper87ab/azure-network-protocols)
+
  
 <h2>👨‍💻 Hybrid Identity: Connect On-Prem AD to Azure AD:</h2>
 
