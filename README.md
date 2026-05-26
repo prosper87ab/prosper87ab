@@ -14,7 +14,7 @@ Here are some of the projects completed in a simulation environment to demonstra
 
 <h2>🖥️ Identity Governance & The Lifecycle (Joiner, Mover, Leaver):</h2>
 
-- <b>The Lab Architecture</b>
+
   - [How to Sync AD with Okta](https://github.com/prosper87ab/activedirectory)
 
  
