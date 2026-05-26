@@ -28,7 +28,7 @@ Here are some of the projects completed in a simulation environment to demonstra
   - [Role-Based Access Control RBAC](https://github.com/prosper87ab/osticket-prereqs)
 
 
-<h2>⚡ PowerShell Automation: Joiner-Mover-Leaver Engine:</h2>
+<h2>⚡Privileged Access Management (PAM):</h2>
 
 - <b>PowerShell Foundations for IAM</b>
   - [Role-Based Access Control RBAC](https://github.com/prosper87ab/osticket-prereqs)
