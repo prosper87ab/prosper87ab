@@ -12,7 +12,7 @@
 
 Here are some of the projects completed in a simulation environment to demonstrate the skills of an IAM analyst.
 
-<h2>🖥️ Active Directory & RBAC Lab:</h2>
+<h2>🖥️ Identity Governance & The Lifecycle (Joiner, Mover, Leaver):</h2>
 
 - <b>Active Directory to Okta Synchronization Lab</b>
   - [How to Sync AD with Okta](https://github.com/prosper87ab/activedirectory)
