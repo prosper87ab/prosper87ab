@@ -23,14 +23,11 @@ Here are some of the projects completed in a simulation environment to demonstra
   - [Role-Based Access Control RBAC](https://github.com/prosper87ab/osticket-prereqs)
   
  
-<h2>🔑 Okta: SSO and MFA for Multiple Applications:</h2>
+<h2>🔑 Compliance, Audits & User Access Reviews (UAR):</h2>
 
-- <b>Configure Okta Universal Directory</b>
   - [Role-Based Access Control RBAC](https://github.com/prosper87ab/osticket-prereqs)
-- <b>Integrate 5 Applications via SSO</b>
-  - [Creating Users and Groups Using Powershell](https://github.com/prosper87ab/configure-ad)
-  - [Single Sign-On(SSO) with SAML/OIDC](https://github.com/prosper87ab/azure-network-protocols)
- 
+
+
 <h2>⚡ PowerShell Automation: Joiner-Mover-Leaver Engine:</h2>
 
 - <b>PowerShell Foundations for IAM</b>
