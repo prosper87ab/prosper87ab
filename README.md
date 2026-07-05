@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/evan-yearwood/">
-    <img src="https://img.shields.io/badge/LinkedIn-evan--yearwood-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/prosperab/">
+    <img src="https://img.shields.io/badge/LinkedIn-prosperab-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
