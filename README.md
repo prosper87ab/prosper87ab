@@ -4,7 +4,7 @@
   <em></em>
 </p>
 <p align="center">
-<em>Student IAM Analyst @ 2SC Corporation</em>
+<em>IAM Analyst @ 2SC Corporation</em>
 </p>
 
 <p align="center">
